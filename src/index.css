@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&family=JetBrains+Mono&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.code-font {
+  font-family: 'Fira Code', monospace;
+}
+
+.pattern-bg {
+  z-index: 1;
+  background-size: 30px 30px;
+  background-image: radial-gradient(circle, #d4d4d8 1.25px, rgba(0, 0, 0, 0) 1.25px);
+  -webkit-mask-image: linear-gradient(to bottom,transparent, 0%, #000, 100%,transparent);
+  mask-image: linear-gradient(to bottom,transparent, 0%, #000, 100%,transparent);
+
+  padding: 50px 0px;
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.logo {
+  animation: logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}

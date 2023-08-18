@@ -1,0 +1,15 @@
+/*
+Theme Name: SolidPress
+Author: Simpicty Tech Solutions Team
+Description: A morden & solid way to run your wordpress site
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments, accessibility-ready
+Version: 0.0.2
+*/
+
+html,
+body,
+#solidity-wrapper,
+#root {
+  height: 100% !important;
+  margin: 0;
+}
