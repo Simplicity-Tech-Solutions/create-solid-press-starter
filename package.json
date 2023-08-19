@@ -1,7 +1,8 @@
 {
   "name": "@solidpress/create-solidpress-starter",
-  "version": "0.0.0",
-  "description": "",
+  "version": "0.0.2",
+  "description": "The best way to start a new modern wordpress website.",
+  "homepage": "https://solidpress.org",
   "bin": "bin/cli.js",
   "config": {
     "environment": "development-build",
@@ -9,7 +10,7 @@
       "build-url": "http://localhost:3000/"
     },
     "developmentBuild": {
-      "build-url": "http://solidpress.local/wp-content/themes/SolidPress-Template/dist/"
+      "build-url": ""
     },
     "production": {
       "build-url": ""
@@ -36,7 +37,6 @@
     "vite-plugin-solid": "^2.7.0"
   },
   "dependencies": {
-    "@solidjs/router": "^0.8.2",
     "cross-env": "^7.0.3",
     "solid-js": "^1.7.6",
     "vite-plugin-live-reload": "^3.0.2",
