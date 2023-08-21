@@ -34,7 +34,7 @@
 </div>
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary align="center" ><h4>Click to Table of Contents 🖱️</h4></summary>
+  <summary align="center" ><h4>Click to Open Table of Contents 🖱️</h4></summary>
   <ol>
     <li>
       <a href="#about-the-project">What is SolidPress?</a>
