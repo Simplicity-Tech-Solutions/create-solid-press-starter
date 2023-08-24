@@ -8,7 +8,7 @@ function custom_404_redirect() {
     if (is_404()) {
         // Redirect to index.php
         status_header(200); // Set HTTP status code to 200 (OK)
-        include(get_template_directory() . '/404.php');
+        include(get_template_directory() . '/index.php');
         exit();
     }
 }

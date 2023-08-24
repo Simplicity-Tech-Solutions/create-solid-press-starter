@@ -1,0 +1,5 @@
+section.cover.show {
+    background: #fff !important; /* Replace these colors with your desired gradient */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

@@ -1,0 +1,48 @@
+{
+  "name": "@solidpress/create-solidpress-starter",
+  "type": "module",
+  "version": "0.0.3",
+  "description": "The best way to start a new modern wordpress website.",
+  "homepage": "https://solidpress.org",
+  "bin": "bin/cli.js",
+  "config": {
+    "environment": "development",
+    "development": {
+      "build-url": "http://localhost:3000/"
+    },
+    "developmentBuild": {
+      "build-url": ""
+    },
+    "production": {
+      "build-url": ""
+    }
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "npm run set-development && cross-env NODE_ENV=development vite",
+    "build": "npm run set-production && vite build",
+    "build:local": "npm run set-development-build && vite build",
+    "build:production": "npm run set-production && vite build",
+    "serve": "vite preview",
+    "set-development": "node sp-development-mode.js",
+    "set-development-build": "node sp-development-build-mode.js",
+    "set-production": "node sp-production-build-mode.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.25",
+    "solid-devtools": "^0.27.3",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.3.9",
+    "vite-plugin-solid": "^2.7.0"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^3.0.3",
+    "cross-env": "^7.0.3",
+    "inquirer": "^9.2.10",
+    "solid-js": "^1.7.6",
+    "vite-plugin-live-reload": "^3.0.2",
+    "vite-plugin-ssr": "^0.4.133"
+  }
+}

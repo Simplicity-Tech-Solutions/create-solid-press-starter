@@ -1,45 +1,30 @@
 {
-  "name": "@solidpress/create-solidpress-starter",
-  "version": "0.0.2",
-  "description": "The best way to start a new modern wordpress website.",
-  "homepage": "https://solidpress.org",
-  "bin": "bin/cli.js",
-  "config": {
-    "environment": "development-build",
-    "development": {
-      "build-url": "http://localhost:3000/"
-    },
-    "developmentBuild": {
-      "build-url": ""
-    },
-    "production": {
-      "build-url": ""
-    }
+  "name": "create-solid-press-starter",
+  "version": "0.0.4",
+  "description": "A new way to create wordpress templates",
+  "type": "module",
+  "bin": {
+    "create-solid-press-starter": "bin/cli.js"
+  },
+  "directories": {
+    "doc": "docs"
   },
   "scripts": {
-    "start": "vite",
-    "dev": "npm run set-development && cross-env NODE_ENV=development vite",
-    "build": "npm run set-production && vite build",
-    "build:local": "npm run set-development-build && vite build",
-    "build:production": "npm run set-production && vite build",
-    "serve": "vite preview",
-    "set-development": "node solidity-development-mode.js",
-    "set-development-build": "node solidity-development-build-mode.js",
-    "set-production": "node solidity-production-build-mode.js"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docsify": "docsify serve ./docs"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Simplicity-Tech-Solutions/create-solid-press-starter.git"
+  },
+  "author": "Simplicity Tech Solutions",
   "license": "MIT",
-  "devDependencies": {
-    "autoprefixer": "^10.4.14",
-    "postcss": "^8.4.25",
-    "solid-devtools": "^0.27.3",
-    "tailwindcss": "^3.3.2",
-    "vite": "^4.3.9",
-    "vite-plugin-solid": "^2.7.0"
+  "bugs": {
+    "url": "https://github.com/Simplicity-Tech-Solutions/create-solid-press-starter/issues"
   },
+  "homepage": "https://github.com/Simplicity-Tech-Solutions/create-solid-press-starter#readme",
   "dependencies": {
-    "cross-env": "^7.0.3",
-    "solid-js": "^1.7.6",
-    "vite-plugin-live-reload": "^3.0.2",
-    "vite-plugin-ssr": "^0.4.133"
+    "docsify-cli": "^4.4.4",
+    "inquirer": "^9.2.10"
   }
 }

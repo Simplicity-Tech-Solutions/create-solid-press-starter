@@ -34,25 +34,10 @@
   </table>
 </div>
 <!-- TABLE OF CONTENTS -->
-<<<<<<< Updated upstream
-<details>
-  <summary align="center" ><h4>Click to Open Table of Contents 🖱️</h4></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">What is SolidPress?</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation Guide</a></li>
-      </ul>
-    </li>
-=======
->>>>>>> Stashed changes
+<br/>
+<br/>
+<br/>
+<h2 align="center">Documentation Coming Soon</h2>
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/Simplicity-Tech-Solutions/create-solid-press-starter.svg?style=for-the-badge
