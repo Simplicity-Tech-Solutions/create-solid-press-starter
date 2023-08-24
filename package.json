@@ -1,6 +1,6 @@
 {
-  "name": "create-solid-press-starter",
-  "version": "0.0.4",
+  "name": "@solidpress/create-solidpress",
+  "version": "0.0.0",
   "description": "A new way to create wordpress templates",
   "type": "module",
   "bin": {
@@ -10,7 +10,6 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "docsify": "docsify serve ./docs"
   },
   "repository": {
