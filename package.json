@@ -1,9 +1,11 @@
 {
-  "name": "@solidpress/create-solidpress-template",
+  "name": "@solidpress/create-templates",
   "version": "0.0.0",
   "description": "A new way to create wordpress templates",
   "type": "module",
-  "bin": "bin/cli.js",
+  "bin": {
+    "create-solidpress-template": "bin/cli.js"
+  }
   "directories": {
     "doc": "docs"
   },
