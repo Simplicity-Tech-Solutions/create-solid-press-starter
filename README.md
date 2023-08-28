@@ -88,31 +88,31 @@ _Below is how you can get started with developing your new wordpress website usi
 1. Open LocalWP on your device ( <a href="">🔗 Click here to go install to LocalWP</a> ) and pick the **Create a new site** option. Then press continue to go to the next page:
 
 <p align="center">
-     <img src="./img/install_step_one.png" width="80%" height="auto">
+     <img src="https://github.com/Simplicity-Tech-Solutions/create-solid-press-starter/blob/main/img/install_step_one.png" width="80%" height="auto">
 </p>
 
 2. Once you see the screen below. Create Your Local WordPress Site ( _Pick a name for your website_ ). Then press continue to go to the next page:
 
 <p align="center">
-     <img src="./img/install_step_two.png" width="80%" height="auto">
+     <img src="https://github.com/Simplicity-Tech-Solutions/create-solid-press-starter/blob/main/img/install_step_two.png" width="80%" height="auto">
 </p>
 
 3. Once you see the screen below. Click **Custom** and select your php version ( *Recomended: Any PHP version after 8.0.0* ). Select **Apache** for your web server ( *Recomended: Any Apache version after 2.4.0* ). Select **MySQL** for your database ( *Recomended: Any MySQL version after 8.0.0* ). Then press continue to go to the next page:
 
 <p align="center">
-     <img src="./img/install_step_three.png" width="80%" height="auto">
+     <img src="https://github.com/Simplicity-Tech-Solutions/create-solid-press-starter/blob/main/img/install_step_three.png" width="80%" height="auto">
 </p>
 
 4. Once you see the screen below. Pick a username and password of your choice. Then fill out what email you want to have connected to the admin account. After these have been filled out to your liking click continue to go to the next page: 
 
 <p align="center">
-     <img src="./img/install_step_four.png" width="80%" height="auto">
+     <img src="https://github.com/Simplicity-Tech-Solutions/create-solid-press-starter/blob/main/img/install_step_four.png" width="80%" height="auto">
 </p>
 
 5. You now have set up your wordpress website! You should see a screen similar to the one below. Click the **Start site** button in the top rigt corner of the screen to start your wordpress website.
 
 <p align="center">
-     <img src="./img/install_step_five.png" width="80%" height="auto">
+     <img src="https://github.com/Simplicity-Tech-Solutions/create-solid-press-starter/blob/main/img/install_step_five.png" width="80%" height="auto">
 </p>
 
 
@@ -136,22 +136,22 @@ _Below is how you can get started with developing your new wordpress website usi
 
 
 <p align="center">
-     <img src="./img/install_step_eight-one.png" width="80%" height="auto">
+     <img src="https://github.com/Simplicity-Tech-Solutions/create-solid-press-starter/blob/main/img/install_step_eight-one.png" width="80%" height="auto">
 </p>
 <p align="center">
-     <img src="./img/install_step_eight-two.png" width="80%" height="auto">
+     <img src="https://github.com/Simplicity-Tech-Solutions/create-solid-press-starter/blob/main/img/install_step_eight-two.png" width="80%" height="auto">
 </p>
 
 9. Once you are in the themes portion of the admin panel activite your new solidpress theme by hovering over the _SolidPress Starter Theme_ and clicking **Activate**!
 
 <p align="center">
-     <img src="./img/install_step_nine.png" width="80%" height="auto">
+     <img src="https://github.com/Simplicity-Tech-Solutions/create-solid-press-starter/blob/main/img/install_step_nine.png" width="80%" height="auto">
 </p>
 
 10. Click on the Home Icon on the top left of your screen and start developing solid press website! 
 
 <p align="center">
-     <img src="./img/enjoy_your_website.png" width="80%" height="auto">
+     <img src="https://github.com/Simplicity-Tech-Solutions/create-solid-press-starter/blob/main/img/enjoy_your_website.png" width="80%" height="auto">
 </p>
 
 <p align="center">(<a href="#readme-top">back to top</a>)</p>
