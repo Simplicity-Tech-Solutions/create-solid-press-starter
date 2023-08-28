@@ -1,10 +1,8 @@
 {
   "name": "@solidpress/create-starter",
-  "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.01",
   "description": "The best way to start a new modern wordpress website.",
   "homepage": "https://solidpress.org",
-  "bin": "bin/cli.js",
   "config": {
     "environment": "development",
     "development": {
