@@ -1,11 +1,9 @@
 {
-  "name": "@solidpress/create-templates",
+  "name": "create-solidpress-template",
   "version": "0.0.0",
   "description": "A new way to create wordpress templates",
   "type": "module",
-  "bin": {
-    "create-solidpress-template": "bin/cli.js"
-  }
+  "bin": "bin/cli.js",
   "directories": {
     "doc": "docs"
   },
@@ -23,7 +21,6 @@
   },
   "homepage": "https://github.com/Simplicity-Tech-Solutions/create-solid-press-starter#readme",
   "dependencies": {
-    "@solidpress/create-solidpress": "^0.0.1",
     "docsify-cli": "^4.4.4",
     "inquirer": "^9.2.10"
   }
