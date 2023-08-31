@@ -1,6 +1,6 @@
 <!-- ![logo](_media/icon.svg) -->
 
-# SolidPress <small>0.0.4</small>
+# SolidPress <small>0.0.71</small>
 
 > A magical documentation site generator.
 
@@ -8,5 +8,8 @@
 - No statically built html files
 - Multiple themes
 
-[GitHub](https://github.com/)
-[Getting Started](#docsify) 
+[GitHub](https://github.com/Simplicity-Tech-Solutions/create-solid-press-starter/)
+[Website](https://solidpress.org)
+[Getting Started](#solidpress) 
+
+![color](white)

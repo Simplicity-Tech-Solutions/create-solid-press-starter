@@ -14,7 +14,7 @@
 [![MIT License][license-shield]][license-url]
 [![Website][website-shield]][website-url] 
 
-<table align="center">
+<table align="center" >
     <tbody>
       <tr>
         <td>
@@ -38,6 +38,8 @@
 <br/>
 <br/>
 <h2 align="center">Documentation Coming Soon</h2>
+
+## solidpress
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/Simplicity-Tech-Solutions/create-solid-press-starter.svg?style=for-the-badge

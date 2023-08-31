@@ -1,6 +1,6 @@
 {
   "name": "create-solidpress-template",
-  "version": "0.0.1",
+  "version": "0.0.71",
   "description": "A new way to create wordpress templates",
   "type": "module",
   "bin": "bin/cli.js",
@@ -8,7 +8,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "docsify": "docsify serve ./docs"
+    "docsify": "docsify serve ./docs",
+    "preinstall": "npm i -g figlet"
   },
   "repository": {
     "type": "git",
